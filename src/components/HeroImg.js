@@ -8,11 +8,8 @@ import { Link } from "react-router-dom"
 const HeroImg = () => {
   return (
     <div className="hero">
-        <div className="mask">
-            <img className="into-img" src={IntroImg} alt="IntroImg"/>
-        </div>
         <div className="content">
-            <h1>PORTFOLIO.</h1>
+            <h1>Welcome to my-portfolio.</h1>
             <div>
                 <Link to="/project" className="btn">Add your project</Link>
             </div>
