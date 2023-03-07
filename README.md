@@ -41,7 +41,7 @@ To use this repo on your machine requires some simple steps
 - Take on the process in ``Alternative One`` above.
 - Remember to replace your username when cloning.
 
-        git clone https://portfolio-frontend-96xjpfgra-dancun616.vercel.app
+        git clone https://portfolio-frontend-dancun616.vercel.app/
 
 
 # Running the application
